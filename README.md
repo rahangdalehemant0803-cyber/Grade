@@ -1,5 +1,6 @@
 # 🎓 Grade Calculator Pro
-
+live link
+https://grade-cal.streamlit.app/
 A modern and interactive Grade Calculator Dashboard built using **Python**, **Streamlit**, **Plotly**, **Pandas**, and **NumPy**.
 
 This application helps students calculate their grades, GPA, analyze subject-wise performance, visualize marks using charts, and generate downloadable reports.
